@@ -10,12 +10,15 @@ DATA INSIGHTS FOR BATSMAN:
 Mumbai Indians
  
 BEST BATSMAN IN THE POWERPLAY FOR MI DURING IPL 2018-IPL 2020:
+![image](https://user-images.githubusercontent.com/115041124/193945779-ed44e78c-af84-4b35-9faa-4080df0c6949.png)
+
 
 1.	Suryakumar Yadav clearly seems to be the best batsman for Mumbai Indians in the first 6 overs having an average of 62.5 and strike rate of 132.90, along with Quinton De Kock.
 2.	Surprisingly, Rohit Sharma who is considered as one of the best openers in white ball cricket seems to have underperformed in the last 3 seasons of the IPL, having a strike rate of 116.11 and average of 25.95 in the first 6 overs.
 BEST BOWLERS IN THE POWERPLAY FOR MI DURING IPL 2018-IPL 2020:
 
- 
+ ![image](https://user-images.githubusercontent.com/115041124/193945856-aef3119d-5469-4094-bf82-93a82edd6478.png)
+
 
 3.	Trent Boult has the most number of wickets and has a decent economy of 6.548 in the powerplay.
 4.	Mitchell McClenaghan has 12 wickets in the powerplay but has has an economy slightly on the higher side.
@@ -23,7 +26,8 @@ BEST BOWLERS IN THE POWERPLAY FOR MI DURING IPL 2018-IPL 2020:
 
 Royal Challengers Bangalore
 BEST BATSMAN IN THE POWERPLAY FOR RCB DURING IPL 2018-IPL 2020:
- 
+ ![image](https://user-images.githubusercontent.com/115041124/193945887-7ae784c1-7e8a-4a83-9ca2-9c10e10eaf85.png)
+
 6.	Youngster Devdutt Padikkal was the best batsman for RCB in the powerplay. He started playing in 2020 and has outshown players players like Virat Kohli in terms of strike rate and average.
 7.	The most number of distinct batsman(18 in all) have batted for RCB in overs 1-6 compared to all others. This implies that RCB has tried the most number of opening combinations in overs 1-6.
 
@@ -116,23 +120,44 @@ Rabada has 36 wickets in overs 16-20, while Bumrah has 35. However, Rabada has p
 
 TOSS ANALYSIS CONSIDERING WHICH GROUND YOU ARE PLAYING AT:
 37.	In Bangalore, the winner of the match cannot be decided by toss during the past 3 years. 
+![image](https://user-images.githubusercontent.com/115041124/193946011-6eeccee2-4c2d-493a-98f3-71a728750d4b.png)
+
 38.	In Mumbai, almost 94% of the matches where teams won the toss elects to field first and 62% of the matches were won by the teams who won the toss during the past 3 years. 
+![image](https://user-images.githubusercontent.com/115041124/193946034-df276913-e3ff-45ee-ac0e-10e5f9968cbf.png)
+
 39.	In Chennai, match outcome cannot be decided by toss during the past 3 years.
- 
+ ![image](https://user-images.githubusercontent.com/115041124/193946050-86efe427-516a-42cd-a510-eb3b0859e9cd.png)
+
 40.	In Hyderabad, almost 73% of the matches are won by the teams which lost the toss during the past 3 years. 
 41.	 In Delhi, match outcome does not depend on toss outcome during past 3 years.
 42.	In Bangalore, Kolkata every team that won toss elects to field first during the past 3 years
+![image](https://user-images.githubusercontent.com/115041124/193946083-8fce6a5e-c104-43e8-ab1c-45398fe0e42d.png)
+
 43.	In Jaipur almost 64% of the matches where teams won the toss elects to field first and almost 67% of the matches were won by the teams who won the toss during the past 3 years. 
+![image](https://user-images.githubusercontent.com/115041124/193946098-c1035928-9ad7-45b6-99d3-039dc52abc37.png)
+
 44.	In Chandigarh almost 90% of the matches where teams won the toss elects to field first and almost 70% of the matches were won by the teams who won the toss. (past 3 years). 
 
 TOP-10 BATSMEN OF ALL TIME: VULNERABLITIES
+
 45.	Rohit Sharma: Rohit Sharma is clearly vulnerable against spinners. Most of his dismissals are against spinners like Sunil Narine, Amit Mishra and Ravichandran Ashwin. Any team playing against Rohit Sharma should try bowling spin upfront cause he is more vulnerable.
+![image](https://user-images.githubusercontent.com/115041124/193946117-5d07eaf4-d8da-46d5-bbc2-312340c491f1.png)
+
   
 46.	Virat Kohli: He is legend of the game, and is technically sound but he is seen to be dismissed slightly more to right arm leg break bowling through caught out. Virat Kohli mostly hits the ball in the air and is out caught.
+![image](https://user-images.githubusercontent.com/115041124/193946137-644af61a-f38b-4c5b-a291-76f75a5026ed.png)
+
  
 47.	David Warner: He is best oversees player, but he gets dismissed by off-spin bowlers. Hence any team playing against him can try bowling an off spinner upfront to dismiss him. 
+![image](https://user-images.githubusercontent.com/115041124/193946163-7f63d942-13f5-49a0-b7cc-967b3384aa34.png)
+
 48.	Chris Gayle: He is vulnerable to off-spin bowling. He is past his prime post 2014 and has never performed same as those levels.
- 
+ ![image](https://user-images.githubusercontent.com/115041124/193946186-8a760c33-766f-4e8c-ba0b-acf85f2b9ead.png)
+
 49.	Shikhar Dhawan: He is left-handed batsman, and is vulnerable against medium pace bowling(bowlers around 120-130 kmph). Shikhar Dhawans runs are in an upward trend and is the only batsman who has outperformed their own records in each season of the IPL. On current form, he probably is the best batsman among the top 10 IPL greats.
+![image](https://user-images.githubusercontent.com/115041124/193946224-7fd5ac2f-a76a-441f-a95f-e6a4a51f4c1d.png)
+
  
 50.	Robin Uthappa: Robin Uthappa has also been on a downward curve since 2015, and never performed at peak levels again. He may be in the top 10 highest run scorers in the IPL but has performed and scored lesser and lesser runs each season. 
+![image](https://user-images.githubusercontent.com/115041124/193946240-400173d2-d2b0-4b37-ad99-f83242a7d82a.png)
+
